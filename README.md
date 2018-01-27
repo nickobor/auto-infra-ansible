@@ -23,7 +23,7 @@ The project is implemented on Google Cloud.
 1. Check out this repository.
     ```
     cd $HOME
-    git clone https://github.com/nik_boronin/compute-video-demo-ansible
+    git clone https://github.com/nickobor/auto-infra-ansible.git
     ```
 
 2. Edit the `gce_vars/auth` file and specify your Project ID in the
